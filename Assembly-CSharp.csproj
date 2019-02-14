@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Asteroid.cs" />
      <Compile Include="Assets\Scripts\AsteroidManager.cs" />
+     <Compile Include="Assets\Scripts\FollowingCamera.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>/home/jp/space_game/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
